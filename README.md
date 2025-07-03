@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm Fernando, a passionate student and aspiring de
 ![GoisFernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoisFernando&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoisFernando&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=GoisFernando&theme=radical)
+
 **Specialty:** ![Godot](https://img.shields.io/badge/Godot-3a8ee6?logo=godot-engine&logoColor=white)
 
 ---
